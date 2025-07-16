@@ -6,7 +6,7 @@
 
 ### 核心功能演示
 
-
+![Image](https://github.com/user-attachments/assets/f44ded36-9841-4879-94f7-bb20de91f0e8)
 
 ---
 
@@ -54,7 +54,7 @@
 
 #### 对于普通用户 (Windows)
 
-1.  前往本项目的 **[Releases 页面](https://github.com/your-username/WindNote/releases)**。 
+1.  前往本项目的 **[Releases 页面](https://github.com/spacexun2/WindNote/releases)**。 
 2.  下载最新版本的 `WindNote.exe` 文件。
 3.  建议放到一个合适的文件夹中，并创建快捷方式至桌面。
 4.  双击运行即可，无需安装。
