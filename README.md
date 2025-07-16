@@ -92,7 +92,7 @@
 1. 克隆本仓库：
 
    ```bash
-   git clone [https://github.com/your-username/WindNote.git](https://github.com/your-username/WindNote.git)
+   git clone [https://github.com/spacexun2/WindNote.git](https://github.com/your-username/WindNote.git)
    ```
 
 2. 进入项目目录并创建虚拟环境：
