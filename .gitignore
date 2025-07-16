@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*build/
+*dist/
+*.spec
+
+# Virtualenv
+venv/
+env/
+.env
+
+# IDE / Editor specific
+.idea/
+.vscode/
+
+# App-specific profiles
+app_edge_profile/
+app_chrome_profile/
